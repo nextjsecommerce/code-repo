@@ -22,7 +22,7 @@ const Footer = () => {
             <Link href="/terms">Terms and Conditions of Sale</Link>
             <Link href="/contact">Contact Us</Link>
           </div>
-          <div>Contact: hello@macaronmagic.com</div>
+          <div>Contact: hello@macaron-magic.com</div>
 
           <MiniCart />
         </div>
